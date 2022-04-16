@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+}
+.parent {
+  display: table;
+  width: 100vw;
+  height: 100vh;
+  background-position: center center;
+}
+.example {
+  line-height: 100%;
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+  font-size: 70px;
+}
